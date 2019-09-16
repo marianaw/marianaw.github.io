@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Licenciatura (equivalent to M.S.) in Computer Science, Facultad de Matemática, Astronomía y Física,
-Universidad Nacional de Córdoba, Córdoba, Argentina, 2007-2013
+* Ph.D in Computer Science, Inria Lille Nord Europe, 2018-present.
 * M.S. in Applied Statistics, Escuela de Graduados de Ciencias Económicas,
 Universidad Nacional de Córdoba, Córdoba, Argentina, 2015-2018 (pending defense).
-* Ph.D in Computer Science, Inria Lille Nord Europe, 2018-present.
+* Licenciatura (equivalent to M.S.) in Computer Science, Facultad de Matemática, Astronomía y Física,
+Universidad Nacional de Córdoba, Córdoba, Argentina, 2007-2013
 
 Work experience
 ======
@@ -40,6 +40,15 @@ Work experience
   I was an on-line math tutor for American college students, mainly in topics such as Algebra
   and Calculus.
   
+  
+Languages
+======
+* Spanish (native)
+* English (proficient)
+* French (intermediate)
+<!-- * German (basic) -->
+
+
 <!--Skills
 ======
 * Skill 1
