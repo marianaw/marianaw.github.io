@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Links"
-  avatar           : "files/portraitmariana.jpg"
+  avatar           : "portraitmariana.jpg"
   bio              : "PhD student at INRIA Lille Nord Europe"
   location         : "France"
   employer         :
