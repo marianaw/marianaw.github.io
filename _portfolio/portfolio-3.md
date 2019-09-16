@@ -1,5 +1,5 @@
 ---
 title: "Running"
-excerpt: "I run 10km (at least) twice a week.<br/><img src='/images/run.jpg'  width='35'>"
+excerpt: "I run 10km (at least) twice a week.<br/><img src='/images/run.jpg'  width='80'>"
 collection: portfolio
 ---
