@@ -1,6 +1,6 @@
 ---
 title: "Ballet"
-excerpt: "I practice ballet since childhood 1<br/><img src='/images/ballet.jpg' width='600'>"
+excerpt: "I practice ballet since childhood<br/><img src='/images/ballet.jpg' width='600'>"
 collection: portfolio
 ---
 
