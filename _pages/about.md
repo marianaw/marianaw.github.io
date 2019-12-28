@@ -18,3 +18,10 @@ Facultad de Matemática, Astronomía y Física (FaMAF),
 Universidad Nacional de Córdoba, Argentina, in October of 2013, and shortly after I enrolled in an 
 Applied Statistics Master program which I almost finished (pending defense).
 
+
+# Publications
+
+- _Mariana Vargas Vieyra_, Aurélien Bellet, Pascal Denis, **Probabilistic End-to-End Graph-based Semi-Supervised Learning**, NeurIPS Bayesian Deep Learning Workshop 2019, contributed talk at NeurIPS Graph Representation Learning Workshop 2019.
+
+# Hobbies
+
