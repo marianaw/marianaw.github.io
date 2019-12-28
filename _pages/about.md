@@ -24,5 +24,3 @@ Applied Statistics Master program which I almost finished (pending defense).
 - _Mariana Vargas Vieyra_, Aurélien Bellet, Pascal Denis, **Probabilistic End-to-End Graph-based Semi-Supervised Learning**, NeurIPS Bayesian Deep Learning Workshop 2019, contributed talk at NeurIPS Graph Representation Learning Workshop 2019.
 - _Mariana Vargas Vieyra_, Oscar Bustos, **Principal Component Analysis in Remote Sensing Image Processing**, Master Thesis 2013.
 
-# Hobbies
-
