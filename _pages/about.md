@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a post-doctoral researcher at Inria Grenoble, France, where I work on Generative Models and Bayesian Optimization for compiter optimization.
+I'm currently a post-doctoral researcher at Inria Grenoble, France, where I work on Generative Models and Bayesian Optimization for compiler optimization.
 I obtained my PhD degree from Inria and Université de Lille where I worked at the [Magnet team](https://www.inria.fr/equipes/magnet) under the supervision of [Pascal Denis](http://researchers.lille.inria.fr/~pdenis/about_me.html)
 and [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/). My PhD work is mainly focused in Graph-based Semi-supervised Learning under topology uncertainty.
 
