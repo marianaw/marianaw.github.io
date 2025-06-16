@@ -7,14 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a post-doctoral researcher at Inria Grenoble, France, where I work on Generative Models and Bayesian Optimization for compiler optimization.
-I obtained my PhD degree from Inria and Université de Lille where I worked at the [Magnet team](https://www.inria.fr/equipes/magnet) under the supervision of [Pascal Denis](http://researchers.lille.inria.fr/~pdenis/about_me.html)
-and [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/). My PhD work is mainly focused in Graph-based Semi-supervised Learning under topology uncertainty.
 
-Previously, I received my Master's degree in Computer Science at
-Facultad de Matemática, Astronomía y Física (FaMAF),
-Universidad Nacional de Córdoba, Argentina, in October of 2013, and shortly after I enrolled in an
-Applied Statistics Master program which I almost finished (pending defense).
+I'm currently an AI researcher at Mostly AI, an Austrian startup building generative models for tabular data. Before that, I went the academic route: a PhD at Inria Lille at the Magnet team (supervised by Pascal Denis and Aurélien Bellet), followed by postdoc positions at Inria Grenoble and EPFL. My research has mostly focused on problems involving highly correlated data --like graphs and time series -- as well as generative models. Lately, I've started exploring reinforcement learning applications for tabular data.
+
+I'm originally from Córdoba, Argentina, where I earned my Master's degree in Computer Science at Universidad Nacional de Córdoba. I also did an Applied Statistics Master's program after I graduated, although I'm still one defense short! Outside of work, you'll probably find me playing the violin or practicing ballet, my two most beloved hobbies.
+
 
 <!-- 
 Publications

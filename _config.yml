@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Links"
+  name             : ""
   avatar           : "portraitmariana.jpg"
-  bio              : "Postdoc at INRIA Grenoble"
+  bio              : "Machine learning researcher and practitioner"
   location         : "France"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : mariana.vargas-vieyra[at]inria.fr
+  email            : mariana.vargas-vieyra[at]mostly.ai
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
