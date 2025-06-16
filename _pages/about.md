@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an AI researcher at Mostly AI, an Austrian startup building generative models for tabular data. Before that, I went the academic route: a PhD at Inria Lille at the Magnet team (supervised by Pascal Denis and Aurélien Bellet), followed by postdoc positions at Inria Grenoble and EPFL. My research has mostly focused on problems involving highly correlated data --like graphs and time series -- as well as generative models. Lately, I've started exploring reinforcement learning applications for tabular data.
+I'm currently an AI researcher at Mostly AI, an Austrian startup building generative models for tabular data. Before that, I went the academic route: a PhD at Inria Lille at the Magnet team (supervised by Pascal Denis and Aurélien Bellet), followed by postdoc positions at Inria Grenoble and EPFL. My research has mostly focused on problems involving non-i.i.d. data --like graphs and time series -- as well as generative models. Lately, I've started exploring reinforcement learning applications for tabular data.
 
 I'm originally from Córdoba, Argentina, where I earned my Master's degree in Computer Science at Universidad Nacional de Córdoba. I also did an Applied Statistics Master's program after I graduated, although I'm still one defense short! Outside of work, you'll probably find me playing the violin or practicing ballet, my two most beloved hobbies.
 
