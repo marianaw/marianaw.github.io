@@ -20,15 +20,15 @@ Universidad Nacional de Córdoba, Córdoba, Argentina, 2007-2013
 
 Publications
 ======
-* 2025, _TabularARGN: A Flexible and Efficient Auto-Regressive Framework for Generating High-Fidelity Synthetic Data_, Paul Tiwald, Ivona Krchova, Andrey Sidorenko, **Mariana Vargas Vieyra**, Mario Scriminaci, Michael Platzer, arxiv pre-print.
-* 2024, _Deep End-to-End Survival Analysis with Temporal Consistency_, **Mariana Vargas Vieyra**, Pascal Frossard, arxiv pre-print.
+* 2025, _TabularARGN: A Flexible and Efficient Auto-Regressive Framework for Generating High-Fidelity Synthetic Data_ [link](https://arxiv.org/pdf/2501.12012), Paul Tiwald, Ivona Krchova, Andrey Sidorenko, **Mariana Vargas Vieyra**, Mario Scriminaci, Michael Platzer, arxiv pre-print.
+* 2024, _Deep End-to-End Survival Analysis with Temporal Consistency_, **Mariana Vargas Vieyra** [link](https://arxiv.org/pdf/2410.06786), Pascal Frossard, arxiv pre-print.
 * 2023, _Sub-Quadratic Link Prediction via Bootstrapping_, Pierre Ménard, **Mariana Vargas Vieyra**, extended abstract at Northern Lights Deep Learning Conference.
-* 2022, _Robust Estimation of Laplacian Constrained Gaussian Graphical Models with Trimmed Non-convex Regularization_,
+* 2022, _Robust Estimation of Laplacian Constrained Gaussian Graphical Models with Trimmed Non-convex Regularization_ [link](https://inria.hal.science/hal-03697993v3/document),
 **Mariana Vargas Vieyra**, 11th International Conference on Probabilistic Graphical Models and ICML Workshop on Principles of Distribution Shift.
-* 2022, _Learning Generative Models with Goal-conditioned Reinforcement Learning_, **Mariana Vargas Vieyra**, Pierre Ménard, 15th European Workshop on Reinforcement Learning (EWRL).
+* 2022, _Learning Generative Models with Goal-conditioned Reinforcement Learning_ [link](https://arxiv.org/pdf/2303.14811), **Mariana Vargas Vieyra**, Pierre Ménard, 15th European Workshop on Reinforcement Learning (EWRL).
 * 2022, _Generative Models and Goal-Conditioned Reinforcement Learning_, Pierre Ménard, **Mariana Vargas Vieyra**, extended abstract at Northern Lights Deep Learning Conference.
-* 2020, _Joint Learning of the Graph and the Data Representation for Graph-Based Semi-Supervised Learning_, **Mariana Vargas Vieyra**, Aurélien Bellet, Pascal Denis, Proceedings of the Graph-based Methods for Natural Language Processing (TextGraphs).
-* 2019, _Probabilistic End-to-End Graph-based Semi-Supervised Learning_, **Mariana Vargas Vieyra**, Aurélien Bellet, Pascal Denis, contributed talk at NeurIPS Graph Representation Learning workshop, NeurIPS Bayesian Deep Learning workshop.
+* 2020, _Joint Learning of the Graph and the Data Representation for Graph-Based Semi-Supervised Learning_ [link](https://aclanthology.org/2020.textgraphs-1.4.pdf), **Mariana Vargas Vieyra**, Aurélien Bellet, Pascal Denis, Proceedings of the Graph-based Methods for Natural Language Processing (TextGraphs).
+* 2019, _Probabilistic End-to-End Graph-based Semi-Supervised Learning_ [link](https://hal.science/hal-03501846/file/distributional_end2end_semi-supervised_learning.pdf), **Mariana Vargas Vieyra**, Aurélien Bellet, Pascal Denis, contributed talk at NeurIPS Graph Representation Learning workshop, NeurIPS Bayesian Deep Learning workshop.
 * 2013, _Análisis de Componentes Pricipales en Imágenes de Teledetección_, Mariana Vargas Vieyra, Master thesis.
 
 
